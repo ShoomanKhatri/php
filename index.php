@@ -1,22 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+<html>
 <body>
-    <?php
 
-    $x = 5;
-    $y = 10;
-    echo gettype($x). " <br>";
+<h2>Login Form</h2>
 
-    $sum = $x+$y;
+<form method="get">
+  Name: <input type="text" name="name">
+  Password: <input type="password" name="password">
+  <input type="submit" value="Submit">
+</form>
 
-    echo "sum is ".$sum;
+<?php
+  if (isset($_GET['name']) && isset($_GET['password'])) {
+    $name = $_GET['name'];
+    $password = $_GET['password'];
+    echo "Hello, $name! Your password is $password.";
+  }
+?>
 
-    ?>
-    
 </body>
 </html>
