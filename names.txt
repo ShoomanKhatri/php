@@ -1,6 +1,9 @@
-#write your names here..
+#write your names here.. 
 example: 
 shoomankhatri
 Nikhil Hamal
+Sirjanasubedi
+AmitBhusal
+
 bibisha kharel
 
