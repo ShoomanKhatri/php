@@ -1,6 +1,6 @@
 #write your names here.. 
 example: 
-shoomankhatri
+shoomankhatri.
 Nikhil Hamal
 Sirjanasubedi
 
