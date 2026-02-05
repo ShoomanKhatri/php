@@ -1,1 +1,1 @@
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat cumque dolores earum perferendis quod, eaque labore placeat obcaecati illum a qui iure doloremque quidem maxime voluptatibus consequuntur. Fuga, voluptatum rerum!
+hello this is amit.php file
