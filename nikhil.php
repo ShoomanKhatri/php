@@ -1,1 +1,1 @@
-My name is Nikhl Hamal. 1 
+My name is Hamal. 1 
